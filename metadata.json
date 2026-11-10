@@ -1,0 +1,8 @@
+{
+  "name": "Umbrella OS | Humane AI Pin AOSP Operating System",
+  "description": "Open-source, AI-first operating system repository, architecture, laser projection HAL, and macOS companion suite for the Humane AI Pin hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
